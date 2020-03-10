@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dhruvthakkar/index.html/static/css/main.392addaf.chunk.css",
-    "main.js": "/dhruvthakkar/index.html/static/js/main.c2e8360e.chunk.js",
-    "main.js.map": "/dhruvthakkar/index.html/static/js/main.c2e8360e.chunk.js.map",
+    "main.js": "/dhruvthakkar/index.html/static/js/main.b0e2c960.chunk.js",
+    "main.js.map": "/dhruvthakkar/index.html/static/js/main.b0e2c960.chunk.js.map",
     "runtime-main.js": "/dhruvthakkar/index.html/static/js/runtime-main.9296b79c.js",
     "runtime-main.js.map": "/dhruvthakkar/index.html/static/js/runtime-main.9296b79c.js.map",
     "static/js/2.cf7c084f.chunk.js": "/dhruvthakkar/index.html/static/js/2.cf7c084f.chunk.js",
     "static/js/2.cf7c084f.chunk.js.map": "/dhruvthakkar/index.html/static/js/2.cf7c084f.chunk.js.map",
     "index.html": "/dhruvthakkar/index.html/index.html",
-    "precache-manifest.8dc11fd138aab9b6b456253787f25d8d.js": "/dhruvthakkar/index.html/precache-manifest.8dc11fd138aab9b6b456253787f25d8d.js",
+    "precache-manifest.c3ad594c4210b396e4a6e0296395e78a.js": "/dhruvthakkar/index.html/precache-manifest.c3ad594c4210b396e4a6e0296395e78a.js",
     "service-worker.js": "/dhruvthakkar/index.html/service-worker.js",
     "static/css/main.392addaf.chunk.css.map": "/dhruvthakkar/index.html/static/css/main.392addaf.chunk.css.map",
     "static/js/2.cf7c084f.chunk.js.LICENSE.txt": "/dhruvthakkar/index.html/static/js/2.cf7c084f.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.9296b79c.js",
     "static/js/2.cf7c084f.chunk.js",
     "static/css/main.392addaf.chunk.css",
-    "static/js/main.c2e8360e.chunk.js"
+    "static/js/main.b0e2c960.chunk.js"
   ]
 }
