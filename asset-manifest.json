@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/dhruvthakkar/static/css/main.392addaf.chunk.css",
-    "main.js": "/dhruvthakkar/static/js/main.02c82410.chunk.js",
-    "main.js.map": "/dhruvthakkar/static/js/main.02c82410.chunk.js.map",
-    "runtime-main.js": "/dhruvthakkar/static/js/runtime-main.bfeee8af.js",
-    "runtime-main.js.map": "/dhruvthakkar/static/js/runtime-main.bfeee8af.js.map",
-    "static/js/2.cf7c084f.chunk.js": "/dhruvthakkar/static/js/2.cf7c084f.chunk.js",
-    "static/js/2.cf7c084f.chunk.js.map": "/dhruvthakkar/static/js/2.cf7c084f.chunk.js.map",
-    "index.html": "/dhruvthakkar/index.html",
-    "precache-manifest.e53ad4c5bc5adc01e03415ec449c0fd1.js": "/dhruvthakkar/precache-manifest.e53ad4c5bc5adc01e03415ec449c0fd1.js",
-    "service-worker.js": "/dhruvthakkar/service-worker.js",
-    "static/css/main.392addaf.chunk.css.map": "/dhruvthakkar/static/css/main.392addaf.chunk.css.map",
-    "static/js/2.cf7c084f.chunk.js.LICENSE.txt": "/dhruvthakkar/static/js/2.cf7c084f.chunk.js.LICENSE.txt",
-    "static/media/MyDp2.svg": "/dhruvthakkar/static/media/MyDp2.1c17b78a.svg",
-    "static/media/Resume_IT.pdf": "/dhruvthakkar/static/media/Resume_IT.cf97f4e0.pdf"
+    "main.css": "/dhruvthakkar/index.html/static/css/main.392addaf.chunk.css",
+    "main.js": "/dhruvthakkar/index.html/static/js/main.c2e8360e.chunk.js",
+    "main.js.map": "/dhruvthakkar/index.html/static/js/main.c2e8360e.chunk.js.map",
+    "runtime-main.js": "/dhruvthakkar/index.html/static/js/runtime-main.9296b79c.js",
+    "runtime-main.js.map": "/dhruvthakkar/index.html/static/js/runtime-main.9296b79c.js.map",
+    "static/js/2.cf7c084f.chunk.js": "/dhruvthakkar/index.html/static/js/2.cf7c084f.chunk.js",
+    "static/js/2.cf7c084f.chunk.js.map": "/dhruvthakkar/index.html/static/js/2.cf7c084f.chunk.js.map",
+    "index.html": "/dhruvthakkar/index.html/index.html",
+    "precache-manifest.8dc11fd138aab9b6b456253787f25d8d.js": "/dhruvthakkar/index.html/precache-manifest.8dc11fd138aab9b6b456253787f25d8d.js",
+    "service-worker.js": "/dhruvthakkar/index.html/service-worker.js",
+    "static/css/main.392addaf.chunk.css.map": "/dhruvthakkar/index.html/static/css/main.392addaf.chunk.css.map",
+    "static/js/2.cf7c084f.chunk.js.LICENSE.txt": "/dhruvthakkar/index.html/static/js/2.cf7c084f.chunk.js.LICENSE.txt",
+    "static/media/MyDp2.svg": "/dhruvthakkar/index.html/static/media/MyDp2.1c17b78a.svg",
+    "static/media/Resume_IT.pdf": "/dhruvthakkar/index.html/static/media/Resume_IT.cf97f4e0.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.bfeee8af.js",
+    "static/js/runtime-main.9296b79c.js",
     "static/js/2.cf7c084f.chunk.js",
     "static/css/main.392addaf.chunk.css",
-    "static/js/main.02c82410.chunk.js"
+    "static/js/main.c2e8360e.chunk.js"
   ]
 }
